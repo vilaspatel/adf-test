@@ -1,0 +1,9 @@
+{
+	"name": "adf-integratedruntime-01",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "02099ee5-7ae9-4ab5-a933-4b1371a72081",
+		"tenantId": "381d31b0-f4b9-4f22-a0dd-92488db3eb82"
+	}
+}
